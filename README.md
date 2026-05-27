@@ -4,6 +4,15 @@
 > 用途: 店舗別売上の月次集計
 > 言語: VBA（Excel）
 > 規模: 約60行（コメント込み）
+> 対応OS: **Windows / Mac 両対応** ✅
+
+---
+
+## 🌐 Windows / Mac 両対応
+
+本マクロは **Windows / Mac いずれの Excel でも動作** します。
+
+Windows専用機能（Scripting.Dictionary など）を使わず、両プラットフォームで安定して動作するコードで書かれています。クライアントのOS環境を問わず納品可能です。
 
 ---
 
@@ -11,6 +20,7 @@
 
 スクリーンショット入りのPDFマニュアル付きで納品しています。
 - **PDF版**: [operation-manual.pdf](operation-manual.pdf)
+- **編集可能なWord版**: [operation-manual.docx](operation-manual.docx)
 
 ---
 
